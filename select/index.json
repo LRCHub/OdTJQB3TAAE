@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋は終わらないずっと",
+  "base_artist": "MISIA",
+  "createdAt": "2025-12-16T16:44:47.063009Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋は終わらないずっと(MISIA 星空のライヴVII@日本武道館)",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/01_恋は終わらないずっと(MISIA_星空のライヴVII@日本武道館)_MISIA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋は終わらないずっと",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/02_恋は終わらないずっと_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋は終わらないずっと",
+      "artist": "米希亚",
+      "has_synced": true,
+      "path": "select/03_恋は終わらないずっと_米希亚.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋は終わらないずっと",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/pl_01_恋は終わらないずっと_MISIA.txt"
+    }
+  ]
+}
